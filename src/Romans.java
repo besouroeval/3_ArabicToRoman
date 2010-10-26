@@ -14,7 +14,7 @@ public class Romans {
 			i-=9;
 		}
 		
-		if (i>=5) {
+		while (i>=5) {
 			roman += "V";
 			i-=5;
 		}
