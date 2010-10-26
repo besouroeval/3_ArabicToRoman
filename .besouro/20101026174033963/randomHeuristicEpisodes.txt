@@ -9,4 +9,5 @@
 1288122539804 test-addition 1 18 true
 1288122547792 regression 1 2 true
 1288122631100 test-first 3 56 true
-1288122654184 test-addition 1 11 false
+1288122654184 test-addition 1 11 true
+1288122707671 test-first 3 37 true

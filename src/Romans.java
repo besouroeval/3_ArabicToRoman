@@ -9,7 +9,7 @@ public class Romans {
 			i-=10;
 		}
 
-		if (i==9) {
+		while (i>=9) {
 			roman += "IX";
 			i-=9;
 		}
