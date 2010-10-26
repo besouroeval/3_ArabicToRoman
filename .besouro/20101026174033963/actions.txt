@@ -1,0 +1,9 @@
+RefactoringAction 1288122057960 ArabicToRomanTest.java ADD ArabicToRomanTest.java CLASS
+FileOpenedAction 1288122058223 ArabicToRomanTest.java 37 0 0 0
+RefactoringAction 1288122068225 ArabicToRomanTest.java ADD void should FIELD
+RefactoringAction 1288122072731 ArabicToRomanTest.java RENAME should=>void shouldTr FIELD
+RefactoringAction 1288122075236 ArabicToRomanTest.java RENAME shouldTr=>void shouldTranslate1 FIELD
+RefactoringAction 1288122076751 ArabicToRomanTest.java RENAME shouldTranslate1=>void shouldTranslate1() METHOD
+RefactoringAction 1288122091895 ArabicToRomanTest.java ADD import org.junit.Test IMPORT
+RefactoringAction 1288122093903 ArabicToRomanTest.java ADD import junit.framework.Assert IMPORT
+EditAction 1288122104601 ArabicToRomanTest.java 188 1 1 1
