@@ -6,13 +6,10 @@ import org.junit.Test;
 public class ArabicToRomanTest {
 
 	@Test
-	public void shouldTranslate1() {
+	public void shouldTranslate1to3() {
 		Assert.assertEquals("I", Romans.toRoman(1));
-	}
-	
-	@Test
-	public void shouldTranslate2() {
 		Assert.assertEquals("II", Romans.toRoman(2));
+		Assert.assertEquals("III", Romans.toRoman(3));
 	}
 	
 	
