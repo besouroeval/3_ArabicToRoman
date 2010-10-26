@@ -7,3 +7,10 @@ RefactoringAction 1288122076751 ArabicToRomanTest.java RENAME shouldTranslate1=>
 RefactoringAction 1288122091895 ArabicToRomanTest.java ADD import org.junit.Test IMPORT
 RefactoringAction 1288122093903 ArabicToRomanTest.java ADD import junit.framework.Assert IMPORT
 EditAction 1288122104601 ArabicToRomanTest.java 188 1 1 1
+CompilationAction 1288122104826 ArabicToRomanTest.java
+RefactoringAction 1288122111436 Romans.java ADD Romans.java CLASS
+CompilationAction 1288122111661 ArabicToRomanTest.java
+FileOpenedAction 1288122111762 Romans.java 26 0 0 0
+FileOpenedAction 1288122115741 Romans.java 26 0 0 0
+RefactoringAction 1288122115784 Romans.java ADD static String toRoman(int) METHOD
+EditAction 1288122120379 Romans.java 84 1 1 0
