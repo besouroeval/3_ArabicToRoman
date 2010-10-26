@@ -2,9 +2,10 @@
 public class Romans {
 
 	public static String toRoman(int i) {
-		String roman = "";
 		
+		String roman = "";
 		int[] digits = new int[]{10,9,5,4,1};
+		
 		for(int d: digits) {
 			while (i>=d) {
 				roman += add(d);
