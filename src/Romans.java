@@ -5,12 +5,12 @@ public class Romans {
 		String roman = "";
 		
 		while (i>=10) {
-			roman = add(roman, 10);
+			roman = add(10);
 			i-=10;
 		}
 
 		while (i>=9) {
-			roman += add(roman, 9);
+			roman += add(9);
 			i-=9;
 		}
 		
@@ -32,7 +32,7 @@ public class Romans {
 		return roman;
 	}
 
-	private static String add(String roman, int qtd) {
+	private static String add(int qtd) {
 		if (qtd == 10)
 			return "X";
 		if (qtd == 9)
