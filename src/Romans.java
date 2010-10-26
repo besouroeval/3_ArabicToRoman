@@ -4,6 +4,14 @@ public class Romans {
 	public static String toRoman(int i) {
 		String roman = "";
 		
+		int[] digits = new int[]{10,9,5,4,1};
+		for(int d: digits) {
+			while (i>=d) {
+				roman += add(d);
+				i-=d;
+			}
+		}
+		
 		while (i>=10) {
 			roman += add(10);
 			i-=10;
