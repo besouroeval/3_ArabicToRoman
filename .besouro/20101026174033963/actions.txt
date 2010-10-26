@@ -94,3 +94,4 @@ UnitTestCaseAction 1288122547792 ArabicToRomanTest.java OK
 UnitTestSessionAction 1288122547792 ArabicToRomanTest.java OK
 RefactoringAction 1288122574500 ArabicToRomanTest.java ADD void shouldTranslate20s()/2 METHOD
 EditAction 1288122580963 ArabicToRomanTest.java 1436 6 21 21
+EditAction 1288122587749 ArabicToRomanTest.java 1330 6 19 19
