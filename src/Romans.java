@@ -24,7 +24,7 @@ public class Romans {
 			i-=4;
 		}
 		
-		while(i>0) {
+		while (i>0) {
 			roman += "I";
 			i--;
 		}
