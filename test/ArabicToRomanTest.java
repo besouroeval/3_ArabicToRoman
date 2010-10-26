@@ -50,5 +50,11 @@ public class ArabicToRomanTest {
 		Assert.assertEquals("XXIV", Romans.toRoman(24));
 	}
 	
+	@Test
+	public void shouldTranslate9s() {
+		Assert.assertEquals("IX", Romans.toRoman(9));
+		Assert.assertEquals("XIX", Romans.toRoman(19));
+		Assert.assertEquals("XXIX", Romans.toRoman(29));
+	}
 	
 }

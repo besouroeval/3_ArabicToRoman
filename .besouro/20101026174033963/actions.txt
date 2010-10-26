@@ -105,3 +105,8 @@ UnitTestCaseAction 1288122631100 ArabicToRomanTest.java OK
 UnitTestSessionAction 1288122631100 ArabicToRomanTest.java OK
 RefactoringAction 1288122642366 ArabicToRomanTest.java RENAME shouldTranslateIV()=>void shouldTranslate4s() METHOD
 EditAction 1288122651462 ArabicToRomanTest.java 1431 6 21 21
+UnitTestCaseAction 1288122654183 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288122654184 ArabicToRomanTest.java OK
+RefactoringAction 1288122670084 ArabicToRomanTest.java ADD void shouldTranslate4s()/2 METHOD
+RefactoringAction 1288122673125 ArabicToRomanTest.java RENAME shouldTranslate4s()/2=>void shouldTranslate9s() METHOD
+EditAction 1288122682306 ArabicToRomanTest.java 1625 7 24 24
