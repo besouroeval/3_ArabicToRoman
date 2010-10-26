@@ -19,7 +19,7 @@ public class Romans {
 			i-=5;
 		}
 
-		if (i==4) {
+		while (i==4) {
 			roman += "IV";
 			i-=4;
 		}
