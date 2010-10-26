@@ -4,7 +4,7 @@ public class Romans {
 	public static String toRoman(int i) {
 		String roman = "";
 		
-		if (i>=10) {
+		while (i>=10) {
 			roman += "X";
 			i-=10;
 		}
