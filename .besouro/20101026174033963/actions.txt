@@ -52,3 +52,6 @@ UnitTestCaseAction 1288122351427 ArabicToRomanTest.java OK
 UnitTestSessionAction 1288122351427 ArabicToRomanTest.java OK
 EditAction 1288122364554 ArabicToRomanTest.java 531 2 7 7
 EditAction 1288122369471 ArabicToRomanTest.java 531 2 7 7
+UnitTestCaseAction 1288122371930 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288122371930 ArabicToRomanTest.java OK
+EditAction 1288122377754 ArabicToRomanTest.java 774 3 11 11
