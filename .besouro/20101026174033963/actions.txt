@@ -150,3 +150,6 @@ UnitTestCaseAction 1288122966639 ArabicToRomanTest.java FAIL
 UnitTestSessionAction 1288122966639 ArabicToRomanTest.java FAIL
 RefactoringAction 1288123015500 Romans.java RENAME add(String, int)=>static String add(int) METHOD
 EditAction 1288123015552 Romans.java 487 2 10 0
+UnitTestCaseAction 1288123021016 ArabicToRomanTest.java FAIL
+UnitTestSessionAction 1288123021017 ArabicToRomanTest.java FAIL
+EditAction 1288123048875 Romans.java 488 2 10 0
