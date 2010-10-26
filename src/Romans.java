@@ -33,9 +33,12 @@ public class Romans {
 	}
 
 	private static String add(String roman, int qtd) {
+		if (qtd == 10)
+			return "X";
+		if (qtd == 9)
+			return "IX";
 		
-		roman += "X";
-		return roman;
+		return null;
 	}
 
 }
