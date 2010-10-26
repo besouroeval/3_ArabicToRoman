@@ -8,7 +8,7 @@ public class Romans {
 		
 		for(int d: digits) {
 			while (i>=d) {
-				roman += add(d);
+				roman += translateDigit(d);
 				i-=d;
 			}
 		}
@@ -16,7 +16,7 @@ public class Romans {
 		return roman;
 	}
 
-	private static String add(int qtd) {
+	private static String translateDigit(int qtd) {
 		switch (qtd) {
 			case 10: return "X";
 			case 9: return "IX";
