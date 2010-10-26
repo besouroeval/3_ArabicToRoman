@@ -37,6 +37,12 @@ public class Romans {
 			return "X";
 		if (qtd == 9)
 			return "IX";
+		if (qtd == 5)
+			return "V";
+		if (qtd == 4)
+			return "IV";
+		if (qtd == 1)
+			return "I";
 		
 		return null;
 	}
