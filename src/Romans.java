@@ -2,7 +2,8 @@
 public class Romans {
 
 	public static String toRoman(int i) {
-		return "I";
+		String string = "I";
+		return string;
 	}
 
 }
