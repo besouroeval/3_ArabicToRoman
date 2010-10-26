@@ -32,3 +32,10 @@ UnitTestSessionAction 1288122240952 ArabicToRomanTest.java OK
 RefactoringAction 1288122253270 ArabicToRomanTest.java RENAME shouldTranslate1()=>void shouldTranslate1to3() METHOD
 RefactoringAction 1288122255787 ArabicToRomanTest.java REMOVE shouldTranslate2() METHOD
 EditAction 1288122260692 ArabicToRomanTest.java 288 1 3 3
+UnitTestCaseAction 1288122263204 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288122263204 ArabicToRomanTest.java OK
+RefactoringAction 1288122274395 ArabicToRomanTest.java ADD void shouldTranslate1to3()/2 METHOD
+RefactoringAction 1288122280417 ArabicToRomanTest.java RENAME shouldTranslate1to3()/2=>void shouldTranslate5() METHOD
+RefactoringAction 1288122282930 ArabicToRomanTest.java RENAME shouldTranslate5()=>void shouldTranslate5to() METHOD
+RefactoringAction 1288122283937 ArabicToRomanTest.java RENAME shouldTranslate5to()=>void shouldTranslate5to8() METHOD
+EditAction 1288122291350 ArabicToRomanTest.java 384 2 4 4
