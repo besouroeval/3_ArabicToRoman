@@ -19,19 +19,12 @@ public class Romans {
 	private static String add(int qtd) {
 		switch (qtd) {
 			case 10: return "X";
+			case 9: return "IX";
+			case 5: return "V";
+			case 4: return "IV";
+			case 1: return "I";
+			default: return null;
 		}
-		if (qtd == 10)
-			return "X";
-		if (qtd == 9)
-			return "IX";
-		if (qtd == 5)
-			return "V";
-		if (qtd == 4)
-			return "IV";
-		if (qtd == 1)
-			return "I";
-		
-		return null;
 	}
 
 }
