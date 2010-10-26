@@ -5,7 +5,7 @@ public class Romans {
 		String roman = "";
 		
 		while (i>=10) {
-			roman = add(roman);
+			roman = add(roman, 10);
 			i-=10;
 		}
 
@@ -32,7 +32,7 @@ public class Romans {
 		return roman;
 	}
 
-	private static String add(String roman) {
+	private static String add(String roman, 10) {
 		roman += "X";
 		return roman;
 	}
