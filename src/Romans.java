@@ -18,7 +18,7 @@ public class Romans {
 
 	private static String add(int qtd) {
 		switch (qtd) {
-			case 10: return "X
+			case 10: return "X";
 		}
 		if (qtd == 10)
 			return "X";
