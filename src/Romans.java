@@ -5,8 +5,8 @@ public class Romans {
 		String roman = "";
 		
 		if (i>5) {
-			roman += "I";
-			i--;
+			roman += "V";
+			i-=5;
 		}
 			
 		
