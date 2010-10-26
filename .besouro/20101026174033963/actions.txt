@@ -75,3 +75,8 @@ RefactoringAction 1288122454283 ArabicToRomanTest.java ADD void shouldTranslate1
 RefactoringAction 1288122460823 ArabicToRomanTest.java RENAME shouldTranslate10to13()/2=>void shouldTranslate15to13() METHOD
 RefactoringAction 1288122462838 ArabicToRomanTest.java RENAME shouldTranslate15to13()=>void shouldTranslate15to18() METHOD
 EditAction 1288122473149 ArabicToRomanTest.java 1033 4 15 15
+UnitTestCaseAction 1288122475626 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288122475626 ArabicToRomanTest.java OK
+RefactoringAction 1288122488473 ArabicToRomanTest.java ADD void shouldTranslate15to18()/2 METHOD
+RefactoringAction 1288122494507 ArabicToRomanTest.java RENAME shouldTranslate15to18()/2=>void shouldTranslate20() METHOD
+EditAction 1288122501671 ArabicToRomanTest.java 1129 5 16 16
