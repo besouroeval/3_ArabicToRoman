@@ -1,3 +1,4 @@
 1288122141545 test-first 1 83 true
 1288122240952 test-first 3 93 true
-1288122263204 test-addition 1 9 false
+1288122263204 test-addition 1 9 true
+1288122351427 test-first 3 77 true
