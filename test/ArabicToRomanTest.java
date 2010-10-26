@@ -28,5 +28,13 @@ public class ArabicToRomanTest {
 		Assert.assertEquals("XIII", Romans.toRoman(13));
 	}
 	
+	@Test
+	public void shouldTranslate15to18() {
+		Assert.assertEquals("XV", Romans.toRoman(15));
+		Assert.assertEquals("XVI", Romans.toRoman(16));
+		Assert.assertEquals("XVII", Romans.toRoman(17));
+		Assert.assertEquals("XVIII", Romans.toRoman(18));
+	}
+	
 	
 }

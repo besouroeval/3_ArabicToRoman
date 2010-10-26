@@ -69,3 +69,9 @@ EditAction 1288122422223 Romans.java 245 1 5 0
 UnitTestCaseAction 1288122425174 ArabicToRomanTest.java FAIL
 UnitTestSessionAction 1288122425174 ArabicToRomanTest.java FAIL
 EditAction 1288122440515 ArabicToRomanTest.java 780 3 11 11
+UnitTestCaseAction 1288122443268 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288122443268 ArabicToRomanTest.java OK
+RefactoringAction 1288122454283 ArabicToRomanTest.java ADD void shouldTranslate10to13()/2 METHOD
+RefactoringAction 1288122460823 ArabicToRomanTest.java RENAME shouldTranslate10to13()/2=>void shouldTranslate15to13() METHOD
+RefactoringAction 1288122462838 ArabicToRomanTest.java RENAME shouldTranslate15to13()=>void shouldTranslate15to18() METHOD
+EditAction 1288122473149 ArabicToRomanTest.java 1033 4 15 15
