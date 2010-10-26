@@ -2,3 +2,5 @@
 1288122475626 test-addition 1 21 true
 1288122547792 regression 1 2 true
 1288122654184 test-addition 1 11 true
+1288122786749 refactoring 2A 2 true
+1288122804062 refactoring 2A 13 true
