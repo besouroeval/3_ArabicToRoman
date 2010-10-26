@@ -14,6 +14,10 @@ public class Romans {
 			i-=5;
 		}
 
+		if (i==4) {
+			roman += "IV";
+		}
+		
 		while(i>0) {
 			roman += "I";
 			i--;
