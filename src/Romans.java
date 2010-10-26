@@ -15,17 +15,17 @@ public class Romans {
 		}
 		
 		while (i>=5) {
-			roman += "V";
+			roman += add(5);
 			i-=5;
 		}
 
 		while (i>=4) {
-			roman += "IV";
+			roman += add(4);
 			i-=4;
 		}
 		
 		while (i>=1) {
-			roman += "I";
+			roman += add(1);
 			i--;
 		}
 		
