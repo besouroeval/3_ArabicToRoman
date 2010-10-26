@@ -172,3 +172,5 @@ UnitTestCaseAction 1288123227407 ArabicToRomanTest.java OK
 UnitTestSessionAction 1288123227407 ArabicToRomanTest.java OK
 RefactoringAction 1288123254425 Romans.java RENAME add(int)=>static String translateDigit(int) METHOD
 EditAction 1288123254468 Romans.java 464 2 5 0
+UnitTestCaseAction 1288123256960 ArabicToRomanTest.java OK
+UnitTestSessionAction 1288123256960 ArabicToRomanTest.java OK

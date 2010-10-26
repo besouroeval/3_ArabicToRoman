@@ -16,7 +16,8 @@
 1288122786749 refactoring 2A 2 true
 1288122804062 refactoring 2A 13 true
 1288122915276 refactoring 2A 64 true
-1288123051360 refactoring 2A 116 false
-1288123088972 refactoring 2A 17 false
+1288123051360 refactoring 2A 116 true
+1288123088972 refactoring 2A 17 true
 1288123151046 refactoring 2A 11 true
-1288123227407 refactoring 2A 71 false
+1288123227407 refactoring 2A 71 true
+1288123256960 refactoring 2A 2 false
